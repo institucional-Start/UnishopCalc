@@ -1,6 +1,6 @@
 {
-  "name": "Start Calculadora",
-  "short_name": "Start Calc",
+  "name": "Calculadora Unishop",
+  "short_name": "Unishop Calc",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0d2340",
